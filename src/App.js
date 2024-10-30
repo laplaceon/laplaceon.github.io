@@ -7,6 +7,7 @@ import Main from './components/Main';
 import './App.css';
 
 function App() {
+  document.title = "Riyadh Rahman";
   return (
     <div className="App">
       <Header />

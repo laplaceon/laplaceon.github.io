@@ -19,7 +19,7 @@ const Header = () => {
                 <FontAwesomeIcon icon={faLinkedin} size="2x" />
               </a>
             </div>
-            <p className="info"><a href="tel:646-552-1769">(917) 342-2410</a></p>
+            <p className="info"><a href="tel:917-342-2410">(917) 342-2410</a></p>
             <p className="info"><a href="mailto:riyadh.rahman.work@gmail.com">riyadh.rahman.work@gmail.com</a></p>
           </div>
         </div>
