@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ul.filters > li {
+  display: inline-block;
+  margin-right: 2px;
+}
+
+.pill {
+  background-color: whitesmoke;
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.pill:hover, .pill.selected {
+  background-color: #0d6fed;
+  color: white;
+}
